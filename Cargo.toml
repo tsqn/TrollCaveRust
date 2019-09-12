@@ -1,0 +1,8 @@
+[package]
+name = "TrollCave"
+version = "0.1.0"
+authors = ["Pavel Neiman <pavel.neiman@plarium.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.0"
